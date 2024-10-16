@@ -1,0 +1,38 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Thanks for using §9Aquific§r[16x]. Created by SirNoobyDaNoob.",
+        "name": "Aquific[16x]",
+        "uuid": "e1720f33-59bc-40e9-a891-c90a5ab74c76",
+        "version": [1, 0, 2],
+        "min_engine_version": [ 1, 18, 10 ]
+    },
+    "modules": [
+        {
+            "description": "A general texture pack for all purposes",
+            "type": "resources",
+            "uuid": "c03c8a9e-9855-4067-ad96-b74f62d5b5c9",
+            "version": [0, 0, 1]
+        }
+    ],
+     "subpacks": [
+   {
+      "folder_name": "DisabledFile", 
+      "name": "§cDisabled§r - Disables the Aquific Client!",
+      "memory_tier": 1
+      },
+	  
+	  {
+      "folder_name": "AquificFile",
+      "name": "§1§lAquific Subpack§r - A collective pack of all textures, optimised for general play!",
+      "memory_tier": 1
+      },
+		
+      {
+      "folder_name": "CompetitiveFile",
+      "name": "§a§lCompetitive Subpack§r - A optimised PvP pack for servers!",
+      "memory_tier": 1
+      }
+      
+   ]
+}
